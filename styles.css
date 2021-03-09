@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(245, 235, 220);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-image: url(/images/grand_canyon_yellowstone.jpeg);
+    background-color: rgb(245, 235, 220);
+    background-position: center;
+    height: 175px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header a {
+    color: seashell;
+}
+
+h1 {
+    font-size: 50px;
+    color: seashell;
+    text-align: center;
+    margin: 0%;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    color: seashell;
+    margin: 0%;
+    padding: 10px;
+}
+
+main {
+    background-image: ;
+}
+
+h2 {
+    margin: 20px;
+    padding: 2px;
+}
+
+h3 {
+    margin: 30px;
+    padding: 2px;
+    color: blueviolet;
+}
+
+main p {
+    margin: 10px;
+    padding: 1px;
+    width: 75%;
+}
+
+.major {
+    font: 40px;
+    color: crimson;
+    box-sizing: border-box;
+    width: 300px;
+    height: 40px;
+    border: 3px double crimson;
+    text-align: center;
+    
+}
+
+.orderlist {
+    list-style: upper-roman;
+}
+
+img {
+    margin-left: 150px;
+}
